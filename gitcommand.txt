@@ -3,3 +3,7 @@ git checkout branchname -- to switch a branch
 git checkout -b branchname -- to create a branch and switch that branch
 git checkout -b branchname <current branch> -- to create branch tree 
 git merge branchname - to merge branch 
+touch filename.extension - to create a file 
+start filename.extension - to start file in editor 
+git ls-files - to list all files 
+git log --oneline  - to see all mearge or adding 
