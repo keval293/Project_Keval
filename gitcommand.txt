@@ -2,3 +2,4 @@ git branch <branch name> -- create a branch
 git checkout branchname -- to switch a branch 
 git checkout -b branchname -- to create a branch and switch that branch
 git checkout -b branchname <current branch> -- to create branch tree 
+git merge branchname - to merge branch 
